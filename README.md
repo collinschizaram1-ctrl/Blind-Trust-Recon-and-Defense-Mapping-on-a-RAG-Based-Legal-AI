@@ -7,7 +7,7 @@ Security research focused on AI and LLM systems. I document what I find, what I 
 
 | Title | Platform | Date |
 |-------|----------|------|
-| [Finding the Credential the AI Wouldn't Give Up](./blind-trust-objective1-writeup (1).md) | huntr.com — Blind Trust Challenge | October 2026 |
+| [Finding the Credential the AI Wouldn't Give Up](./blind-trust-privileged-access.md) | huntr.com — Blind Trust Challenge | October 2026 |
 
 ## About
 
